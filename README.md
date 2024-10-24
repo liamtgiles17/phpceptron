@@ -134,4 +134,4 @@ The algorithm governing "training", or updating of weights, is very simple. If t
 
 With very brief experimentation, I was able to train the perceptron to a test accuracy of just over 70%. Heavily dependent on random distribution of shapes drawn.
 
-Run `php -S localhost:port_here`, to see frontend.
+Run `php -S localhost:port_here` to see frontend in browser.

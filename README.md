@@ -132,4 +132,6 @@ The perceptron takes WIDTHxHEIGHT inputs, and assigns a weight to each input. If
 
 The algorithm governing "training", or updating of weights, is very simple. If the perceptron doesn't activate when it should, the pixels of the image are added to the weights, and if the perceptron does activate when it shouldn't, the pixels of the image are subtracted from the weights.
 
-With very brief experimentation, I was able to train the perceptron to a test accuracy of just under 70%.
+With very brief experimentation, I was able to train the perceptron to a test accuracy of just over 70%. Heavily dependent on random distribution of shapes drawn.
+
+Run `php -S localhost:port_here`, to see frontend.

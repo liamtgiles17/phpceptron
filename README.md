@@ -2,7 +2,7 @@
 
 Simple perceptron implementation in PHP, which can perform binary classification between rectangles and circles.
 
-Rectangles and circles are drawn on a WIDTHxHEIGHT grid, and may look like the following with WIDTH=HEIGHT=30:
+Rectangles and circles are randomly generated on a WIDTHxHEIGHT grid, and may look like the following with WIDTH=HEIGHT=30:
 
 Circle:
 
